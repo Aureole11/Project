@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-public class TableExample  
+public class Table 
 {  
 public static void main(String[] args)   
 {  
