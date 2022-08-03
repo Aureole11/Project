@@ -1,3 +1,4 @@
+import groovy.lang.GroovyClassLoader;
 import java.util.Scanner;  
 public class Table 
 {  
